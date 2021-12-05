@@ -1,7 +1,8 @@
-# Creating-a-Role-Menu / Rol-Menüsü Oluşturma
+# Creating-a-Role-Menu / Rol-Menüsü Oluşturma 
 
 **Discord.js v13 ile yazılmış, menü ile üyelere rol aldırma./ Casting rolewith menu, written in Discord.js v13.**
 
+# ⚜
 
 /// **Eğer ki seçenekleri çoğaltmak isterseniz ./config.json'da rolleri ve emojileri çoğaltabilirsiniz**
 
