@@ -7,9 +7,9 @@
 
 /// **Seçeneklerinizi çoğalttıktan sonra index.js'da 4. satıra rollerinizi ve emojilerinizi tanımlamanız yeterli olacaktır.**
 
-1-) Yüklemeleri yapmak için (Node.js v16.6) gerekmektedir.\
+1-) Yüklemeleri yapmak için (Node.js v16.6) gerekmektedir.
 
-2-) Gerekli olan modülleri yüklemelisiniz. (npm i)\
+2-) Gerekli olan modülleri yüklemelisiniz. (npm i)
 
-3-) Apl başlaması için kullanmanız gereken komut. (node .)\
+3-) Apl başlaması için kullanmanız gereken komut. (node .)
 
